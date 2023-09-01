@@ -1,0 +1,40 @@
+div {  
+    margin: 40px auto;
+}
+
+
+/* Círculo*/
+#grafico-01 {
+    
+    width: 200px;
+    height: 200px;
+    
+}
+
+#grafico-01 img {
+    width: 100%;
+    height: auto;
+}
+
+
+/* Triângulo */
+#grafico-02 {
+    background: transparent;
+    border-style: solid;
+    border-width: 60px 0 60px 120px;
+    border-color: transparent transparent transparent blue;
+    width: 60px;
+}
+
+#imagem-vetorial {
+    width: 100px;
+}
+
+#imagem-co {
+    width: 100;
+}
+
+#canvas {
+    height: 200px;
+    width: 200px;
+}
